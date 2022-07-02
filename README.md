@@ -1,5 +1,5 @@
-Hi everyone, my name's Mario and i recently learned to program with JavaScript, 
-I think I still have a lot to learn but now that I've started I'm not going to stop, 
-I aspire to have fun with editing videogames, robots and the most advanced artificial intelligences, 
+Hi everyone, my name's Mario and i've started to code in 2022, 
+I think I still have a lot to learn but i'm discovering many ways to have fun with coding and I'm not going to stop, 
+I aspire to edit videogames, robots and the most advanced artificial intelligences, 
 I hope to belong to some group to which I can give my contribution. 
-I am also interested in learning more about JavaScript and learning C++, c#, Phyton, R and Java. 
+I am moving towards the complete knowledge about JavaScript, Python, C++, R, SQL and Java, and a lot of libraries. 
